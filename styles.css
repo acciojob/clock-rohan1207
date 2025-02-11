@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+#timer {
+    font-size: 2em;
+    color: #333;
+    font-weight: bold;
+    margin-top: 20px;
+}
